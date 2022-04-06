@@ -1,3 +1,3 @@
 ## Game
 
-### Flappy 
+### Flappy game
